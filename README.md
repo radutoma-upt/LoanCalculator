@@ -6,7 +6,7 @@ This application was created by Radu-Ionel Toma as an assignment in the Coursera
 
 The application was developed using **'Shiny'** library and 'RStudio' and implementing the 'PMT' function for calculating the monthly loan payment.
 
-The presentation about the app can be found [here:](https://www.google.com)
+The presentation about the app can be found [here:](https://rpubs.com/radutoma-upt/ReproduciblePitch)
 
 ## Instructions
                                     
